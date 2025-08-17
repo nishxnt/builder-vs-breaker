@@ -1,0 +1,21 @@
+# python
+__pycache__/
+.ipynb_checkpoints/
+.env
+*.pyc
+*.pyo
+
+# notebooks & data
+artifacts/
+sample_data/
+*.csv
+*.parquet
+
+# model weights / large files
+*.bin
+*.safetensors
+*.ckpt
+
+# OS
+.DS_Store
+Thumbs.db

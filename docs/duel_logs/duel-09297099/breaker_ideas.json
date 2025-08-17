@@ -1,0 +1,23 @@
+{
+  "ideas": [
+    {
+      "title": "stringy.py",
+      "file": "tests/test_basic.py",
+      "summary": "assert stringy('') == 'stringy'",
+      "style": "pytest"
+    },
+    {
+      "title": "calculator.py",
+      "file": "tests/test_basic.py",
+      "summary": "assert calculator(5, 3) == 1.6666666666666666",
+      "style": "pytest"
+    },
+    {
+      "title": "test_basic.py",
+      "file": "tests/test_basic.py",
+      "summary": "assert basic() == 'Hello, World!'",
+      "style": "pytest"
+    }
+  ],
+  "selected": 0
+}
