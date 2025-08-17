@@ -29,8 +29,6 @@ builder-vs-breaker/
 ├─ notebooks/
 │  ├─ builder_vs_breaker_colab.ipynb     # download from Colab: File → Download .ipynb
 │  └─ runner_stub.py                      # tiny entrypoint to run one duel locally
-├─ demo_repo/                             # tiny target codebase used in the demo
-├─ src/                                   # optional: place your reusable modules here
 ├─ requirements.txt
 ├─ .gitignore
 ├─ LICENSE (MIT)
